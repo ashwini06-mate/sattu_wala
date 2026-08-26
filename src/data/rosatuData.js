@@ -4,7 +4,7 @@ export function getWhatsAppLink(message = 'Hi! I want to order Sattu Wala.') {
   return `${base}?text=${encoded}`;
 }
 
-export const SATTU_WALA_FLAVORS = [
+export const ROSATU_FLAVORS = [
   {
     id: 'masala-sattu',
     name: 'Masala Sattu Premix',
